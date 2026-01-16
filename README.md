@@ -1,1 +1,2 @@
-# Fadenpendel_Numerik
+# Numerische Simulation von Pendelsystemen
+Dieses Repository enthält MATLAB-Skripte und Dokumentationen zur numerischen Analyse und Simulation von physikalischen Pendelsystemen. Das Projekt wurde im Rahmen einer Übungsreihe erstellt und deckt Themen von der Linearisierung des einfachen Fadenpendels bis hin zur Simulation chaotischer Doppelpendel ab.
